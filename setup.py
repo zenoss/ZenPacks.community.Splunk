@@ -4,7 +4,7 @@
 NAME = "ZenPacks.community.Splunk"
 VERSION = "1.1.1"
 AUTHOR = "Zenoss"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Splunk']
 INSTALL_REQUIRES = []
